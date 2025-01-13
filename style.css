@@ -244,19 +244,19 @@ span {
 
 @keyframes words {
     0%, 20% {
-        content: "Mobile Designer";
+        content: "UX Designer";
     }
     21%, 40% {
-        content: "Web Developer";
+        content: UI Designer";
     }
     41%, 60% {
-        content: "Product Designer";
+        content: "Prototyping";
     }
     61%, 80% {
-        content: "Web Developer";
+        content: "Web Designer";
     }
     81%, 100% {
-        content: "Software Tester";
+        content: "User Research";
     }
 }
 
@@ -434,17 +434,17 @@ span {
     line-height: 1.7;
     margin: auto;
 }
-.capstone {
+.projects {
     background: var(--bg-color);
     color: black;
 }
 
-.capstone h2 {
+.projects h2 {
     margin-bottom: 5rem;
     color: white;
 }
 
-.capstone-container {
+.projects-container {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 2.5rem;
