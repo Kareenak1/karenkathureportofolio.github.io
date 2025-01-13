@@ -220,7 +220,7 @@ span {
 }
 
 .text-animation span::before {
-    content: "Web Developer";
+    content: "Web Designer";
     color: var(--main-color);
     animation: words 20s infinite;
 }
@@ -250,13 +250,13 @@ span {
         content: UI Designer";
     }
     41%, 60% {
-        content: "Prototyping";
+        content: "Mobile Designer";
     }
     61%, 80% {
         content: "Web Designer";
     }
     81%, 100% {
-        content: "User Research";
+        content: "User Researcher";
     }
 }
 
@@ -444,7 +444,7 @@ span {
     color: white;
 }
 
-.projects-container {
+.capstone-container {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 2.5rem;
